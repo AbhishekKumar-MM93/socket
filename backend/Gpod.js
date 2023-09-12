@@ -62,7 +62,7 @@ app.use(
 mongoose.set("strictQuery", false);
 mongoose
   .connect(
-    "mongodb+srv://seeke:aiNsP6WpGmsyD7aV@cluster0.thv9xbf.mongodb.net/Gpod?retryWrites=true&w=majority",
+    ""
     {
       useNewUrlParser: true,
       useUnifiedTopology: true,
